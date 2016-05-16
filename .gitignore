@@ -1,6 +1,6 @@
 # Resources and documentation Folders
 doc/
-pdf/
+#pdf/
 resource/
 
 # Other files and folders
